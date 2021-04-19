@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ComparableExample\bin\Debug\ComparableExample.exe.config
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ComparableExample\bin\Debug\ComparableExample.exe
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ComparableExample\bin\Debug\ComparableExample.pdb
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ComparableExample\obj\Debug\ComparableExample.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ComparableExample\obj\Debug\ComparableExample.exe
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ComparableExample\obj\Debug\ComparableExample.pdb

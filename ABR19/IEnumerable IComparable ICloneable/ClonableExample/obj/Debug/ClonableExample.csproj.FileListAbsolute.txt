@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ClonableExample\bin\Debug\ClonableExample.exe.config
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ClonableExample\bin\Debug\ClonableExample.exe
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ClonableExample\bin\Debug\ClonableExample.pdb
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ClonableExample\obj\Debug\ClonableExample.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ClonableExample\obj\Debug\ClonableExample.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ClonableExample\obj\Debug\ClonableExample.exe
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\ClonableExample\obj\Debug\ClonableExample.pdb
+C:\Users\usuario\Desktop\POO 01 21\ABR19\IEnumerable IComparable ICloneable\ClonableExample\bin\Debug\ClonableExample.exe.config
+C:\Users\usuario\Desktop\POO 01 21\ABR19\IEnumerable IComparable ICloneable\ClonableExample\bin\Debug\ClonableExample.exe
+C:\Users\usuario\Desktop\POO 01 21\ABR19\IEnumerable IComparable ICloneable\ClonableExample\bin\Debug\ClonableExample.pdb
+C:\Users\usuario\Desktop\POO 01 21\ABR19\IEnumerable IComparable ICloneable\ClonableExample\obj\Debug\ClonableExample.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\POO 01 21\ABR19\IEnumerable IComparable ICloneable\ClonableExample\obj\Debug\ClonableExample.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\POO 01 21\ABR19\IEnumerable IComparable ICloneable\ClonableExample\obj\Debug\ClonableExample.exe
+C:\Users\usuario\Desktop\POO 01 21\ABR19\IEnumerable IComparable ICloneable\ClonableExample\obj\Debug\ClonableExample.pdb

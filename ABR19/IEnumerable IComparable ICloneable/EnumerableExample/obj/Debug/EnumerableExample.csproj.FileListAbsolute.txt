@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\EnumerableExample\bin\Debug\EnumerableExample.exe.config
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\EnumerableExample\bin\Debug\EnumerableExample.exe
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\EnumerableExample\bin\Debug\EnumerableExample.pdb
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\EnumerableExample\obj\Debug\EnumerableExample.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\EnumerableExample\obj\Debug\EnumerableExample.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\EnumerableExample\obj\Debug\EnumerableExample.exe
+C:\Users\usuario\Desktop\POO 01 21\ABR19\EnumerableExample\EnumerableExample\obj\Debug\EnumerableExample.pdb
